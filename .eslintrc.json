@@ -15,7 +15,7 @@
     "ecmaFeatures": {
       "jsx": true
     },
-    "ecmaVersion": "latest",
+    "ecmaVersion": "latest"
   },
   "plugins": ["react", "@typescript-eslint"],
   "rules": {
