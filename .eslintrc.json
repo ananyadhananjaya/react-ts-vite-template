@@ -17,7 +17,7 @@
     },
     "ecmaVersion": "latest"
   },
-  "plugins": ["react", "@typescript-eslint"],
+  "plugins": ["react", "@typescript-eslint", "html"],
   "rules": {
     "no-unused-vars": "error",
     "no-var": "error",
